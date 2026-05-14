@@ -67,14 +67,6 @@ Selengkapnya:
 - [Kebijakan Privasi Google Play](https://policies.google.com/privacy)
 - [Kebijakan Privasi Apple](https://www.apple.com/legal/privacy/)
 
-#### c) [OPSIONAL — Hapus jika tidak digunakan] Firebase Analytics / Crashlytics
-Jika Aplikasi menggunakan Firebase untuk analytics atau crash reporting, layanan ini mengumpulkan:
-- Data event game (level dicapai, item dibeli) — secara anonim
-- Laporan crash dan error
-- Informasi perangkat (untuk debugging)
-
-Selengkapnya: [Kebijakan Privasi Firebase](https://firebase.google.com/support/privacy).
-
 ### 2.3 Informasi yang TIDAK Kami Kumpulkan
 Untuk menghindari kebingungan, Kami **tidak** mengumpulkan:
 - Nama lengkap, alamat email, atau nomor telepon Anda
@@ -166,21 +158,8 @@ Mohon aktifkan kontrol orang tua di perangkat untuk mencegah pembelian tidak sen
 ## 7. PRIVASI ANAK-ANAK
 
 ### 7.1 Batasan Usia
-Sambalverse [pilih salah satu opsi berikut sesuai target Anda]:
-
-- **Opsi A — Game untuk umum (13+):** ditujukan untuk pengguna berusia 13 tahun ke atas. Kami **tidak secara sengaja** mengumpulkan data dari anak di bawah 13 tahun. Jika Anda adalah orang tua/wali dan menemukan bahwa anak Anda telah memberikan informasi kepada Kami, harap hubungi Kami agar Kami dapat menghapusnya.
-- **Opsi B — Game untuk anak-anak (Designed for Families):** mengikuti program Google Play Designed for Families. AdMob dikonfigurasi dengan **child-directed treatment**, hanya menampilkan iklan yang sesuai untuk anak-anak, dan tidak menggunakan iklan personalisasi.
-
-> **Joko, pilih salah satu opsi di atas dan hapus yang tidak relevan.**
-
-### 7.2 Kepatuhan COPPA dan UU PDP Pasal 25
-[Jika Opsi B] Kami mematuhi **Children's Online Privacy Protection Act (COPPA)** dengan:
-- Tidak mengumpulkan informasi pribadi anak tanpa persetujuan orang tua yang dapat diverifikasi
-- Tidak menampilkan iklan yang ditargetkan berdasarkan perilaku
-- Tidak meminta data lokasi presisi
-- Memberi orang tua hak untuk meninjau dan menghapus data anak mereka
-
-[UU PDP Indonesia Pasal 25] Untuk anak di bawah 18 tahun atau yang dianggap belum dewasa secara hukum, pemrosesan data memerlukan persetujuan orang tua atau wali.
+Sambalverse:
+Game untuk umum (13+):** ditujukan untuk pengguna berusia 13 tahun ke atas. Kami **tidak secara sengaja** mengumpulkan data dari anak di bawah 13 tahun. Jika Anda adalah orang tua/wali dan menemukan bahwa anak Anda telah memberikan informasi kepada Kami, harap hubungi Kami agar Kami dapat menghapusnya.
 
 ---
 
@@ -229,7 +208,7 @@ Untuk sebagian besar data:
 - **Data AdMob lebih lanjut:** [Setelan Iklan Google](https://adssettings.google.com/)
 - **Data pembelian:** hubungi Google Play / Apple Support
 
-Untuk permintaan lain, hubungi Kami di **[EMAIL KAMU]**. Kami akan merespons dalam **30 hari** sesuai persyaratan GDPR dan UU PDP.
+Untuk permintaan lain, hubungi Kami di **jokoprawibowo37@gmail.com**. Kami akan merespons dalam **30 hari** sesuai persyaratan GDPR dan UU PDP.
 
 ### 10.3 Hak Mengajukan Keluhan
 Jika Anda merasa hak privasi Anda dilanggar, Anda dapat mengajukan keluhan ke:
